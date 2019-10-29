@@ -1,0 +1,6 @@
+E:\TrainingKit\Software\RenameFiles\RenameFiles\bin\Debug\RenameIamgeFiles.exe.config
+E:\TrainingKit\Software\RenameFiles\RenameFiles\bin\Debug\RenameIamgeFiles.exe
+E:\TrainingKit\Software\RenameFiles\RenameFiles\bin\Debug\RenameIamgeFiles.pdb
+E:\TrainingKit\Software\RenameFiles\RenameFiles\obj\Debug\RenameIamgeFiles.csprojResolveAssemblyReference.cache
+E:\TrainingKit\Software\RenameFiles\RenameFiles\obj\Debug\RenameIamgeFiles.exe
+E:\TrainingKit\Software\RenameFiles\RenameFiles\obj\Debug\RenameIamgeFiles.pdb

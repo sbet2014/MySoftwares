@@ -1,0 +1,12 @@
+E:\TrainingKit\Parallel\AB123Sample\AB123Sample\bin\Debug\AB123Sample.exe.config
+E:\TrainingKit\Parallel\AB123Sample\AB123Sample\bin\Debug\AB123Sample.exe
+E:\TrainingKit\Parallel\AB123Sample\AB123Sample\bin\Debug\AB123Sample.pdb
+E:\TrainingKit\Parallel\AB123Sample\AB123Sample\obj\Debug\AB123Sample.csprojResolveAssemblyReference.cache
+E:\TrainingKit\Parallel\AB123Sample\AB123Sample\obj\Debug\AB123Sample.exe
+E:\TrainingKit\Parallel\AB123Sample\AB123Sample\obj\Debug\AB123Sample.pdb
+E:\TrainingKit\Software\AB123Sample\AB123Sample\bin\Debug\AB123Sample.exe.config
+E:\TrainingKit\Software\AB123Sample\AB123Sample\obj\Debug\AB123Sample.exe
+E:\TrainingKit\Software\AB123Sample\AB123Sample\obj\Debug\AB123Sample.pdb
+E:\TrainingKit\Software\AB123Sample\AB123Sample\bin\Debug\AB123Sample.exe
+E:\TrainingKit\Software\AB123Sample\AB123Sample\bin\Debug\AB123Sample.pdb
+E:\TrainingKit\Software\AB123Sample\AB123Sample\obj\Debug\AB123Sample.csprojResolveAssemblyReference.cache
